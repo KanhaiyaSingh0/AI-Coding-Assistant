@@ -88,7 +88,7 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ Author
 
 **Kanhaiya Singh**  
-[LinkedIn](https://www.linkedin.com/in/kanhaiyasingh0/)  
+[LinkedIn](www.linkedin.com/in/kanhaiya-singh-426052217)  
 [GitHub](https://github.com/KanhaiyaSingh0)
 
 ---
